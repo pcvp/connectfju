@@ -1,4 +1,4 @@
-# connectfju
+# Connect FJU
 
   O aplicativo foi desenvolvido para facilitar a evangelização pelos membros da igreja, permitindo também um maior controle e organização por parte dos resposnsáveis.
   
