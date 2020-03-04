@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "106368464307",
+    "firebase_url": "https://fjufirebaseproject.firebaseio.com",
+    "project_id": "fjufirebaseproject",
+    "storage_bucket": "fjufirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106368464307:android:81dad3afee3f4de7b807c6",
+        "android_client_info": {
+          "package_name": "com.connect.fju"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106368464307-fbt2a7anhh84g06j8d4olrac8ho2ekk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.connect.fju",
+            "certificate_hash": "cf702de6a799a83262d5ae3c031e28c0d1f90046"
+          }
+        },
+        {
+          "client_id": "106368464307-h7u1lmpaslah0f68u0e3uisuq52gtipi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFgpmkZIu6yZzyHNDM7uhDCRvbj_c_gGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106368464307-h7u1lmpaslah0f68u0e3uisuq52gtipi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

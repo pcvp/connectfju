@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Connect FJU</string>
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Fechar menu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share_body">Hey!! Esse aqui é o app da evangelização, instale ele antes de ir que vai arrebentar !!\nhttps://play.google.com/store/apps/details?id=com.connect.fju</string>
+    <string name="share_subject">Connect FJURJ</string>
+    <string name="share_with">Compartilhar com</string>
+    <string name="logo_tribo">Logo tribo</string>
+    <string name="rua">Rua</string>
+    <string name="portas">Portas</string>
+    <string name="informacoes_jovem">Informações do jovem</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="loginTitle">Login</string>
+    <string name="action_login">Login</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="enviarMsgWPP">Enviar mensagem pelo whatsapp</string>
+    <string name="enviarMsgSMS">Enviar mensagem por SMS</string>
+    <string name="romanos_1_16">Romanos 1:16</string>
+    <string name="V_Romanos_1_16">Porque não me envergonho do evangelho de Cristo, pois é o poder de Deus para salvação de todo aquele que crê [..]</string>
+    <string name="que_oferta">Que oferta my friend!! Agora é só mandar a mensagem de boas vindas para o jovem ;)</string>
+    <string name="ou">ou</string>
+    <string name="ja_tem_uma_conta">Já tem \numa \nconta?</string>
+    <string name="celular">Celular</string>
+    <string name="forgot_password">Esqueceu sua senha?</string>
+    <string name="new_user_register_now">Novo usuario? Registre-se agora</string>
+    <string name="cadastrese">Cadastre-se</string>
+    <string name="logo_fju">Logo FJU</string>
+    <string name="evangelizado">Evangelizado</string>
+    <string name="editar_mensagens_padr_es">Editar mensagens padrões</string>
+    <string name="mensagem_whatsapp">Mensagem Whatsapp</string>
+    <string name="mensagem_sms">Mensagem SMS</string>
+    <string name="use_meunome_e_nomedojovem_para_que_o_app_substitua_os_dados_corretamente">Use *meunome* e *nomedojovem* para que o app substitua os dados corretamente</string>
+    <string name="salvar">Salvar</string>
+    <string name="sou_atalaia">Sim</string>
+    <string name="e_mail">E-mail</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="criando_sua_conta">Criando \nsua  \nconta</string>
+    <string name="n_o_sou_atalaia">Não</string>
+    <string name="email">Email</string>
+    <string name="recuperar_senha">Recuperar \nsenha</string>
+    <string name="action_recuperar_senha">Recuperar senha</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#243045</color>
+    <color name="colorPrimaryDark">#161E2B</color>
+    <color name="colorAccent">#8b0f1b</color>
+    <color name="white">#FFF</color>
+
+    <color name="fju_vermelho">#8b0f1b</color>
+    <color name="fju_azul">#243045</color>
+    <color name="fju_menu_azul">#243045</color>
+    <color name="lblCards">#000</color>
+
+</resources>

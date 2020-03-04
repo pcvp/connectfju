@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Tribos">
+        <item>Selecione sua tribo</item>
+        <item>Aser</item>
+        <item>Benjamin</item>
+        <item>Efraim</item>
+        <item>Gade</item>
+        <item>Issacar</item>
+        <item>Judá</item>
+        <item>Levi</item>
+        <item>Manassés</item>
+        <item>Naftali</item>
+        <item>Rúben</item>
+        <item>Simeão</item>
+        <item>Zebulom</item>
+    </string-array>
+
+    <string-array name="TribosProfile">
+        <item>Aser</item>
+        <item>Benjamin</item>
+        <item>Efraim</item>
+        <item>Gade</item>
+        <item>Issacar</item>
+        <item>Judá</item>
+        <item>Levi</item>
+        <item>Manassés</item>
+        <item>Naftali</item>
+        <item>Rúben</item>
+        <item>Simeão</item>
+        <item>Zebulom</item>
+    </string-array>
+</resources>
